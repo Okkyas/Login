@@ -23,7 +23,7 @@
     "DPMods-3KLIR1": {
       "hwid": "602F6928ECE88381",
       "expireDate": "2027-07-18",
-      "isBanned": false,
+      "isBanned": true,
       "banReason": "",
       "userRank": "Supreme User"
     }
