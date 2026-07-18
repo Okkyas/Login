@@ -18,9 +18,7 @@
     "updateRequired": false,
     "updateUrl": "https://t.me/okkyas"
   },
-  "BannedHWIDs": {
-    "EXAMPLE_BANNED_HWID": "Attempted Smali Bypass"
-  },
+  "BannedHWIDs": {},
   "Keys": {
     "DPMods-3KLIR1": {
       "hwid": "602F6928ECE88381",
